@@ -1,0 +1,31 @@
+h1{
+    color: aqua;
+}
+
+
+div p{
+    background-color: beige;
+}
+
+div+p{
+    background-color: aliceblue;
+}
+
+div-p{
+    background-color: antiquewhite;
+}
+
+a:link{
+    background-color: aquamarine;
+    color: whitesmoke;
+}
+
+a:visited{
+    background-color: brown;
+    color: blue;
+}
+
+a:hover{
+    background-color: black;
+}
+
